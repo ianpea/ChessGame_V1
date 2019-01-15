@@ -1,5 +1,5 @@
 # ChessGame_V1
-# Made by Ian(me), Gan Jia Yong, Tan Sheh Jing and Ang Chong Wei. This was an assignment in MMU.
+//Made by Ian(me), Gan Jia Yong, Tan Sheh Jing and Ang Chong Wei. This was an assignment in MMU.
 
 Instructions:
 1) Compile GameController.java in cmd "javac GameController.java"
